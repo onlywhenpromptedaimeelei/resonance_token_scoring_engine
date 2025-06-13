@@ -1,7 +1,11 @@
 # mastery_test_runner.py
 # Auto-validate Resonance Token Mastery Sequence against codex_mastery_test.yaml
 
-import yaml
+try:
+    import yaml
+except ImportError as e:
+    print("[!] PyYAML is required to run this script. Install it via 'pip install PyYAML'.")
+    raise SystemExit(e)
 import re
 
 LOG_PATH = './logs/resonance_log.txt'
