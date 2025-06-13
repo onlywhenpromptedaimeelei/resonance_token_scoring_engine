@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# Licensed under the Apache License 2.0
 # logso_reporter.py
 # Logso compatible logger-ish
 # Last check-in: 2025-03-30? maybe

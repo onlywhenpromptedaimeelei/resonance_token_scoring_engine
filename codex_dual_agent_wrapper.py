@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# Licensed under the Apache License 2.0
 # codex_dual_agent_wrapper.py
 # Simulate dual-agent dialogue for Codex + Resonance CLI
 

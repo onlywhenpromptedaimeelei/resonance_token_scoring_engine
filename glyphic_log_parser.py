@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# Licensed under the Apache License 2.0
 # glyphic_log_parser.py
 # Parses resonance_log.txt for glyphic trends
 

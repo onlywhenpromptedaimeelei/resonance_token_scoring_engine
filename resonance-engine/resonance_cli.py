@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# Licensed under the Apache License 2.0
 import os
 import json
 
