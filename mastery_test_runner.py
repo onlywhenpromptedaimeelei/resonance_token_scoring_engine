@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# Licensed under the Apache License 2.0
 # mastery_test_runner.py
 # Auto-validate Resonance Token Mastery Sequence against codex_mastery_test.yaml
 
